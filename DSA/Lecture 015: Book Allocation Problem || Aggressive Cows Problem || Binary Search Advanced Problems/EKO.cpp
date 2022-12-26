@@ -1,3 +1,5 @@
+(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWtieHBQWTJwc2dVaE9Ia21DWklIeFd1TFl3Z3xBQ3Jtc0trZmFONnZpLW0wb1k5QWE0V2dNQTNncFQ2bmZtd1pDVmhqZHBpMTEtb2dkRmpZTEZiQzF1M1MwRXZfczBPR01JTVMyS2phQ21tVW1SUjhGMUd1OUJDUkhMa2M2WDJYeHFiNFFLbmFaR0lDTnBnMlZnbw&q=https%3A%2F%2Fwww.spoj.com%2Fproblems%2FEKO%2F&v=YTTdLgyqOLY)
+
 /*
 Lumberjack Mirko needs to chop down M metres of wood. It is an easy job for him since he has a nifty new woodcutting machine that can take down forests like wildfire. However, Mirko is only allowed to cut a single row of trees.
 
