@@ -1,3 +1,5 @@
+(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEZYX1BYSWlLQV9LUm9qaERrMFpwenJDZ0Fwd3xBQ3Jtc0trSmg3aHU1NXdZaGdCT1pqTVdwQjN4ZGYtMEJUeEV0bXIxOWlqdTBKSjBRN0NmV0JGdHhCVVpWcUFNcVE2VFNIMlNmLWFJazNkbE1ZMmlwemRCdTRHdThULW14VW5pZFdlcUhUcldENkJrZDRJMnRKaw&q=https%3A%2F%2Fbit.ly%2F31v3Jiy&v=YTTdLgyqOLY)
+
 /*
 You have to allocate the blocks to painters in contiguous manner so that it takes minimum time for the blocks to be painted
 */
