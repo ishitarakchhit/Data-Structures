@@ -1,3 +1,4 @@
+
 /*
 To find the floating part of the integer we use brute force approach.
 in which we increment the floating part of the number by 1 and check if the square of final number is less than the original number or not.
