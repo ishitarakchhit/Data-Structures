@@ -1,3 +1,4 @@
+(https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397?leftPanelTab=0)
 /*
 Find the duplicate in an array where all the elements lie in [1,n-1] and occur once with a single element occuring twice
 */
