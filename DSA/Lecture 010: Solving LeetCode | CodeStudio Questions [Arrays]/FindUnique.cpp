@@ -1,3 +1,7 @@
+(https://www.codingninjas.com/codestudio/problems/find-unique_625159)
+ /*
+ Find the unique element in an array of size N where there are 2*M+1 elements with each element repeating twice except one. Find that element.
+ */
 #include<iostream>
 using namespace std;
 
