@@ -1,3 +1,5 @@
+(https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1)
+
 /*
 Both the arrays are sorted in increasing order.
 The output should be in increasing order of elements
