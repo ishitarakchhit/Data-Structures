@@ -1,3 +1,7 @@
+[https://www.codingninjas.com/codestudio/problems/sort-array-of-0s-and-1s_2656186?leftPanelTab=0]
+ /*
+ Move all zeroes to the start and all one's to the end.
+ */
 #include <iostream>
 using namespace std;
 
