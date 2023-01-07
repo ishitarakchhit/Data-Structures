@@ -30,3 +30,29 @@ n == matrix.length == matrix[i].length
 1 <= n <= 20
 -1000 <= matrix[i][j] <= 1000
  */
+ 
+ //approach: shift all the elements by [i,j] => [j, n-i] where n= size of matrix -1 
+ class Solution {
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        int i=0; 
+        int j=0; 
+        int count=0;
+        int n= matrix.size()-1;
+        while(i<=n/2){
+            while(j<=n-i-1){
+                int temp= matrix[i][j];
+                matrix[i][j]= matrix[n-j][i];
+                matrix[n-j][i]= matrix[n-i][n-j];
+                matrix[n-i][n-j]= matrix[j][n-i];
+                matrix[j][n-i]= temp;
+                j++;
+                i=count;
+            }
+            count++;
+            j= count;
+            i= count;
+        }
+        
+    }
+};
